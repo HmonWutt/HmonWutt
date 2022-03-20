@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HmonWutt
 - 👀 I’m interested in datascience.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on codewars.
+- 💞️ :)
 - 📫 You can reach me @ wu2504hm-s@student.lu.se
 
 <!---
