@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HmonWutt
-- 👀 I’m interested in datascience.
-- 🌱 I’m currently learning python.
-- 💞️ :)asexual
-- 📫 You can reach me @ wu2504hm-s@student.lu.se
+- 👀 I aspire to be a data-analyst.
+- 🌱 I’m currently doing advent of code challenges.
 
 <!---
 HmonWutt/HmonWutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
