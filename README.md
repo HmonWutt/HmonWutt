@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HmonWutt
-- 👀 I aspire to be a data-analyst.
+- 👀 I am an aspiring data-analyst.
 - 🌱 I’m currently doing advent of code challenges.
 
 <!---
