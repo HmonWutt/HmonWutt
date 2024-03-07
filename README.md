@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HmonWutt
-- 👀 I’m currently learning to code in Python and SQL.
+- 👀 I’m obsessed with making websites and three.js!!
 - 🌱 Advent of code enthusiast!
 
 <!---
