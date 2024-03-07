@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HmonWutt
-- 👀 I’m obsessed with making websites and three.js!!
+- 👀 I’m obsessed with making websites, blender and three.js!!
 - 🌱 Advent of code enthusiast!
 
 <!---
