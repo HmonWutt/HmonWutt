@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hmon.
+# 👋 Hi, I’m Hmon
 - 🌱 Advent of code enthusiast!
 
 <!---
