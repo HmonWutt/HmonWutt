@@ -1,9 +1,36 @@
-# 👋 Hi, I’m Hmon
-- 🌱 Advent of code enthusiast!
-  
-![Coding No Idea GIF by Scaler](https://github.com/user-attachments/assets/c89a960c-3115-4e63-8dda-011632b9d37d)
+## About Me 😄
 
-<!---
-HmonWutt/HmonWutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Hmon! I’m an aspiring developer with a passion for crafting digital experiences that cap- tivate and inspire. Armed with a keyboard and a determination to learn and improve, I’m constantly enhancing my programming abilities. 
+
+
+- 🌱 I’m currently exploring **graphQL** and **Network communication**.
+- 💬 Ask me about **Python**, **Java**, and **git**.
+- 📫 How to reach me: [https://www.linkedin.com/in/wutt-hmon-8a87b01b5/](wtthumon@gmail.com)
+- ⚡ Fun fact: I like corriandar!
+
+## 📚 My Writing & Content
+
+I love Advent of code:
+
+- 📝 [Getting Started with Web Automation](https://medium.com/@silentBob/getting-started-with-web-automation) - An introduction to automating web tasks using Python and Selenium.
+- 📖 [Building Scalable Web Applications](https://medium.com/@silentBob/building-scalable-web-applications) - A guide to best practices for developing scalable and maintainable web applications.
+- 🗒️ [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+
+## 📫 Connect with Me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wutt-hmon-8a87b01b5/) or check out my [personal website](https://hmonwutt.github.io/threeJS/).
+
+## 🛠️ Tools I Use
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
+</p>
