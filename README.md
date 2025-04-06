@@ -1,18 +1,18 @@
 ## About Me 😄
 
-Hi, I'm Hmon! I’m an aspiring developer with a passion for crafting digital experiences that cap- tivate and inspire. Armed with a keyboard and a determination to learn and improve, I’m constantly enhancing my programming abilities. 
+Hi, I'm Hmon! I’m a developer with a passion for crafting digital experiences that cap- tivate and inspire. Armed with a keyboard and a determination to learn and improve, I’m constantly enhancing my programming abilities. 
 
 
 - 🌱 I’m currently exploring **graphQL** and **Network communication**.
 - 💬 Ask me about **Python**, **Java**, and **git**.
 - 📫 How to reach me: [https://www.linkedin.com/in/wutt-hmon-8a87b01b5/](wtthumon@gmail.com)
-- ⚡ Fun fact: I like corriandar!
+- ⚡ Fun fact: I loooove advent of code!
 
-## 📚 My Writing & Content
+<!-- ## 📚 My Writing & Content
 
 I love Advent of code:
 
-<!-- - 📝 [Getting Started with Web Automation](https://medium.com/@silentBob/getting-started-with-web-automation) - An introduction to automating web tasks using Python and Selenium.
+- 📝 [Getting Started with Web Automation](https://medium.com/@silentBob/getting-started-with-web-automation) - An introduction to automating web tasks using Python and Selenium.
 - 📖 [Building Scalable Web Applications](https://medium.com/@silentBob/building-scalable-web-applications) - A guide to best practices for developing scalable and maintainable web applications.
 - 🗒️ [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
  -->
