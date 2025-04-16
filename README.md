@@ -1,6 +1,6 @@
 ## About Me 😄
 
-Hi, I'm Hmon! I’m a developer with a passion for crafting digital experiences that cap- tivate and inspire. Armed with a keyboard and a determination to learn and improve, I’m constantly enhancing my programming abilities. 
+Hi, I'm Hmon! I’m a developer with a passion for crafting digital experiences that captivate and inspire. Armed with a keyboard and a determination to learn and improve, I’m constantly enhancing my programming abilities. 
 
 
 - 🌱 I’m currently exploring **graphQL** and **Network communication**.
