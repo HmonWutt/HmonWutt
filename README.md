@@ -18,7 +18,7 @@ I love Advent of code:
  -->
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wutt-hmon-8a87b01b5/) or check out my [personal website](https://hmonwutt.github.io/threeJS/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wutt-hmon-8a87b01b5/) or [Discord](hmonmon_95443).
 
 ## 🛠️ Tools I Use
 
