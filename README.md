@@ -3,8 +3,8 @@
 Hi, I'm Hmon! I’m a developer with a passion for crafting digital experiences that captivate and inspire. Armed with a keyboard and a determination to learn and improve, I’m constantly enhancing my programming abilities. 
 
 
-- 🌱 I’m currently exploring **functional programming** and **front-end development**.
-- 💬 Ask me about **Python**, **Java**, **git**, **OOP** and **functional programming**.
+- 🌱 I’m currently exploring **data stuctures** and **dynamic programming**.
+- 💬 Ask me about **Python**, **Java**, **git**, **OOP** and **operating systems**.
 - 📫 How to reach me: [https://www.linkedin.com/in/wutt-hmon-8a87b01b5/](wtthumon@gmail.com)
 - ⚡ Fun fact: I can reverse a linked list.
 
