@@ -23,7 +23,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wutt-hmon
 ## 🛠️ Tools I Use
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+<img src="https://e7.pngegg.com/pngimages/857/344/png-clipart-neovim-source-code-extensibility-computer-software-github-angle-rectangle-thumbnail.png" alt="neovim" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
