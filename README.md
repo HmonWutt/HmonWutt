@@ -5,7 +5,7 @@ Hi, I'm Hmon! I’m a developer with a passion for crafting digital experiences 
 
 - 🌱 I’m currently exploring **data stuctures** and **dynamic programming**.
 - 💬 Ask me about **Python**, **Java**, **git**, **OOP** and **operating systems**.
-- 📫 How to reach me: [https://www.linkedin.com/in/wutt-hmon-8a87b01b5/](wtthumon@gmail.com)
+- 📫 How to reach me: wtthumon@gmail.com
 - ⚡ Fun fact: I can reverse a linked list.
 
 <!-- ## 📚 My Writing & Content
