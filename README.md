@@ -7,6 +7,10 @@ Hi, I'm Hmon! I’m a developer with a passion for crafting digital experiences 
 - 💬 Ask me about **Python**, **Java**, **git**, **OOP** and **operating systems**.
 - 📫 How to reach me: wtthumon@gmail.com
 - ⚡ Fun fact: I can reverse a linked list.
+  
+<div align="center" style="width=100%;">
+  <img src="game.gif" alt="My GitHub Game">
+</div>
 
 <!-- ## 📚 My Writing & Content
 
