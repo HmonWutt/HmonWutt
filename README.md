@@ -1,6 +1,6 @@
 ## Hi there 😄!
 
-🌱 I’m currently obsessed with leveling up on https://www.boot.dev/u/hmon. Aiming to be an Archmage by the end of next month.
+🌱 I’m currently obsessed with leveling up on [boot.dev](https://www.boot.dev/u/hmon). Aiming to be an Archmage by the end of next month.
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/610813c8-9374-421f-991f-91c66562a274/thumbnail" >
 </p>
