@@ -14,7 +14,7 @@ I love Advent of code:
 - 📖 [Building Scalable Web Applications](https://medium.com/@silentBob/building-scalable-web-applications) - A guide to best practices for developing scalable and maintainable web applications.
 - 🗒️ [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
  -->
-## 🛠️ Languagues and Tools
+## 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,go,ts,js,java,gradle,arch,neovim,git,github,docker,rabbitmq,mysql,postgres,md)](https://skillicons.dev)
 
 <div align="left" style="width=100%;">
