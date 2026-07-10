@@ -23,5 +23,5 @@ I love Advent of code:
 
 ## 📫 Let's connect
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wutt-hmon) or [Discord](https://discord.com/users/hmonmon_95443).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hmon-wutt) or [Discord](https://discord.com/users/hmonmon_95443).
 
